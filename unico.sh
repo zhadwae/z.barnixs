@@ -97,7 +97,7 @@ spam(){
     echo
     echo "[1] Spam SMS"
     echo "[2] Spam Telp"
-    echo "[3] Close Troll Project"
+    echo "[3] Close Barnixs Project"
     echo
     echo "1/2/3?"
     read pilih
